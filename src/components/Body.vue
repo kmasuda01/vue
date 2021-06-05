@@ -5,7 +5,7 @@
                 <h2 class="title">profile</h2>
                 <div class="profile_list">
                     <div class="profile_background">
-                        <h3 class="profile_keireki">経歴</h3>
+                        <h3 class="profile_keireki">経歴ii</h3>
                         <ul>
                             <li class="profile_keireki_list">- 九州国際大学附属高等学校(2016年3月) 卒業</li>
                             <li class="profile_keireki_list">- 立命館大学 情報理工学部 情報コミュニケーション学科(2020年3月) 卒業</li>
